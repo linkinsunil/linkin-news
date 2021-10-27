@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "ESPN"
+            },
+            "author": "Josh Weinfuss",
+            "title": "Arizona Cardinals head coach Kliff Kingsbury cleared to return vs. Houston Texans - ESPN",
+            "description": "Cardinals coach Kliff Kingsbury has cleared the NFL's COVID-19 protocols and will return to the sideline for Sunday's game against the Texans.",
+            "url": "https://www.espn.com/nfl/story/_/id/32464094/arizona-cardinals-head-coach-kliff-kingsbury-cleared-return-vs-houston-texans",
+            "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2021%2F0908%2Fr906330_1296x729_16%2D9.jpg",
+            "publishedAt": "2021-10-24T14:14:32Z",
+            "content": "GLENDALE, Ariz. -- Arizona Cardinals coach Kliff Kingsbury has cleared the NFL's COVID-19 protocol and will return to the sideline for Sunday's game against the Houston Texans.\r\nKingsbury tested posi… [+1158 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Chloe Melas, CNN",
+            "title": "Watch Jason Sudeikis' funniest 'SNL' skits from this weekend - CNN",
+            "description": "Jason Sudeikis returned to host \"Saturday Night Live\" this weekend and brought the funny.",
+            "url": "https://www.cnn.com/2021/10/24/entertainment/jason-sudeikis-snl-videos/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211024042753-snl-sudeikis-mono-orig-00002515-super-tease.png",
+            "publishedAt": "2021-10-24T13:52:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "College football rankings, grades: Ohio State earns 'A+', Oklahoma gets 'D' in Week 8 report card - CBSSports.com",
+            "description": "A look at how the national championship contenders fared in Week 8",
+            "url": "https://www.cbssports.com/college-football/news/college-football-rankings-grades-ohio-state-earns-a-oklahoma-gets-d-in-week-8-report-card/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2021/10/24/3954bc5f-f5a2-4829-940b-318066b6240a/thumbnail/1200x675/b39717dafc12b63e5c75058a9b168c29/henderson.jpg",
+            "publishedAt": "2021-10-24T13:45:39Z",
+            "content": "Week 8 of the college football season is in the books, and it gave contenders another chance to prove their worth in the chase for the College Football Playoff National Championship. \r\nNo. 3 Oklahoma… [+408 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Kim Lyons",
+            "title": "Estimated ship times for preorders of new MacBook Pro models now into late November, early December - The Verge",
+            "description": "Adding customized options to the new MacBook Pro will push estimated delivery dates later into December, so if you’re planning to preorder, you might want to get on it soon.",
+            "url": "https://www.theverge.com/2021/10/24/22743137/apple-estimated-ship-times-preorders-new-macbook-pro-december-m1",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/WVECtL0Hfl7Dni3uX28YbNcmK6s=/0x124:1960x1150/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22938878/Apple_MacBook_Pro_16_inch_Final_Cut_Pro_10182021.jpg",
+            "publishedAt": "2021-10-24T13:40:28Z",
+            "content": "If you add customizations, it pushes the ship date back even later\r\nShip times for MacBook Pro models have slid into December\r\nShipping estimates on the Apple Store for new 14-inch and 16-inch MacBoo… [+1362 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Arjun Kharpal",
+            "title": "Chinese EV maker Xpeng launches upgraded semi-autonomous driving features in a challenge to Tesla - CNBC",
+            "description": "Xpeng released XPILOT 3.5, the latest version of its advanced driver-assistance system or ADAS.",
+            "url": "https://www.cnbc.com/2021/10/24/xpeng-launches-xpilot-3point5-semi-autonomous-driving-features.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106934101-1630033646925-gettyimages-1234074907-xpeng004.jpeg?v=1630033723",
+            "publishedAt": "2021-10-24T13:18:28Z",
+            "content": "GUANGZHOU, China Chinese electric car start-up Xpeng released updates for its semi-autonomous driving system as its looks to up its challenge to Tesla in China.\r\nXpeng released XPILOT 3.5, the latest… [+1434 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Ringer"
+            },
+            "author": "Michael Baumann",
+            "title": "What Does the Dodgers’ NLCS Loss Forecast About the Team’s Future? - The Ringer",
+            "description": "The Dodgers have long been able to wipe away playoff losses with a near certainty that the team would be back the following season. But with roster upheaval on the horizon, how long will that be the case?",
+            "url": "https://www.theringer.com/2021/10/24/22739450/dodgers-lose-nlcs-braves",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/9pnjHN57GnavX2o55nsYVowA9FM=/0x74:1200x702/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22946204/DodgersObit_Getty_Ringer.jpg",
+            "publishedAt": "2021-10-24T13:14:30Z",
+            "content": "Empires are built over generations, but they can fall in a weekend.\r\nNot that an NLCS exit portends the imminent collapse of the Los Angeles Dodgers, who for nine years have ruled the National League… [+7942 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Managing Madrid"
+            },
+            "author": "Lucas Navarrete",
+            "title": "CONFIRMED lineups: Barcelona vs Real Madrid, 2021 El Clasico - Managing Madrid",
+            "description": "All set for El Clasico!",
+            "url": "https://www.managingmadrid.com/2021/10/24/22742838/barcelona-vs-real-madrid-2021-el-clasico-lineups",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/ILk9NCLvaquN89BS5uU-O4mQUKs=/0x447:3124x2083/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22861823/1336933772.jpg",
+            "publishedAt": "2021-10-24T13:03:58Z",
+            "content": "Real Madrid have published their starting lineup for the upcoming match against Barcelona, the first El Clasico of the 2021-2022 season.\r\nBarcelona starting XI (TBC): Ter Stegen, Mingueza, Pique, Eri… [+792 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Ronn Blitzer",
+            "title": "Schumer, Manchin to meet with Biden in Delaware: report - Fox News",
+            "description": "Sen. Joe Manchin, D-W.Va., will be meeting with both President Biden and Senate Majority Leader Chuck Schumer, D-N.Y., on Sunday, as Democrats continue to have trouble agreeing to terms on a massive social spending bill to go alongside a bipartisan infrastruc…",
+            "url": "https://www.foxnews.com/politics/manchin-to-meet-with-biden-schumer-as-dems-continue-negotiations-on-spending-package-report",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/09/manchin-biden.jpg",
+            "publishedAt": "2021-10-24T13:01:49Z",
+            "content": "Sen. Joe Manchin, D-W.Va., will be meeting with both President Biden and Senate Majority Leader Chuck Schumer, D-N.Y., on Sunday, as Democrats continue to have trouble agreeing to terms on a massive … [+2388 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NDTV News"
+            },
+            "author": null,
+            "title": "Alec Baldwin To Cancel Projects After Prop Gun Incident On Set: Report - NDTV",
+            "description": "Actor Alec Baldwin is cancelling other projects following an accidental shooting on the set of his upcoming film ''Rust'', which led to cinematographer Halyna Hutchins' demise and left director Joel Souza injured.",
+            "url": "https://www.ndtv.com/world-news/alec-baldwin-to-cancel-projects-after-prop-gun-incident-on-set-report-2586353",
+            "urlToImage": "https://c.ndtvimg.com/2021-10/q6aji7gg_alec-baldwinafp_625x300_22_October_21.jpg",
+            "publishedAt": "2021-10-24T12:58:56Z",
+            "content": "So far, no charges have been filed and an investigation remains ongoing. (File)\r\nWashington: Actor Alec Baldwin is cancelling other projects following an accidental shooting on the set of his upcomin… [+2815 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Emma Colton",
+            "title": "Obama says GOP is 'systematically preventing' citizens from voting - Fox News",
+            "description": "Barack Obama slammed Republicans as “systematically” trying to prevent Americans from voting in a speech while campaigning for Democratic Viginia gubernatorial candidate Terry McAuliffe",
+            "url": "https://www.foxnews.com/politics/barack-obama-republicans-systematically-preventing-voting",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/Obama-Flint-Michigan-AP.jpg",
+            "publishedAt": "2021-10-24T12:53:58Z",
+            "content": "Former President Barack Obama slammed Republicans as \"systematically\" trying to prevent Americans from voting in a campaign speech for Virginia Democratic gubernatorial candidate Terry McAuliffe. \r\n\"… [+3620 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Cat Zakrzewski, Gerrit De Vynck, Niha Masih, Shibani Mahtani",
+            "title": "Facebook failed to moderate content in developing countries - The Washington Post",
+            "description": "A trove of internal documents show Facebook didn’t invest in key safety protocols in the company’s largest market.",
+            "url": "https://www.washingtonpost.com/technology/2021/10/24/india-facebook-misinformation-hate-speech/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VVYDKEN2IJCH3JY5I6NOABGMEQ.jpg&w=1440",
+            "publishedAt": "2021-10-24T12:30:57Z",
+            "content": "At first, her feed filled with soft-core porn and other, more harmless, fare. Then violence flared in Kashmir, the site of a long-running territorial dispute between India and Pakistan. Indian Prime … [+16158 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "As.com"
+            },
+            "author": "AS USA",
+            "title": "La Palma volcano, live updates today: eruption, tsunami warning and latest news | Canary Islands - AS English",
+            "description": "Latest news, information and updates on the eruption of the Cumbre Vieja volcano on La Palma, the most important on the island since 1585.",
+            "url": "https://en.as.com/en/2021/10/24/latest_news/1635071074_870141.html",
+            "urlToImage": "https://as01.epimg.net/en/imagenes/2021/10/24/latest_news/1635071074_870141_1635071214_noticia_normal.jpg",
+            "publishedAt": "2021-10-24T12:01:17Z",
+            "content": "Headlines\r\n- Volcano enters 35th day of activity on Sunday, having begun on 19 September\r\n- 5.0 magnitude earthquake recorded on Saturday, the highest since the eruption began\r\n- Stranded dogs rescue… [+834 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Story by Reuters",
+            "title": "Containers ablaze on cargo ship off British Columbia - CNN",
+            "description": "A fire broke out on Saturday on containers on a cargo ship carrying mining chemicals off British Columbia, and the Canadian Coast Guard said it is working with the U.S. Coast Guard to assess the situation, including environmental hazards.",
+            "url": "https://www.cnn.com/2021/10/24/americas/canada-ship-blaze-intl/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211024062110-british-columbia-ship-blaze-super-tease.jpg",
+            "publishedAt": "2021-10-24T11:38:00Z",
+            "content": "(CNN)A fire broke out on Saturday on containers on a cargo ship carrying mining chemicals off British Columbia, and the Canadian Coast Guard said it is working with the U.S. Coast Guard to assess the… [+1270 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Erdogan's critics say demand for expulsions is distraction from economy woes - Reuters",
+            "description": "President Tayyip Erdogan's political opponents said his call to expel the ambassadors of 10 Western allies was an attempt to distract attention from Turkey's economic difficulties, while diplomats hoped the expulsions might yet be averted.",
+            "url": "https://www.reuters.com/world/middle-east/erdogans-critics-say-demand-expulsions-is-distraction-economy-woes-2021-10-24/",
+            "urlToImage": "https://www.reuters.com/resizer/1O0vAFelB928FpGPxttIPlXrPMk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WEGGBDPIK5JQPBQR3CRA5XMKYU.jpg",
+            "publishedAt": "2021-10-24T11:10:00Z",
+            "content": "ISTANBUL, Oct 24 (Reuters) - President Tayyip Erdogan's political opponents said his call to expel the ambassadors of 10 Western allies was an attempt to distract attention from Turkey's economic dif… [+4776 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Christina Maxouris, CNN",
+            "title": "With Brian Laundrie dead, here's where else authorities could look for answers on what happened to Gabby Petito - CNN",
+            "description": "Brian Laundrie, who authorities had said could help fill in at least some of the blanks about what Gabby Petito's final days looked like, has been confirmed dead.",
+            "url": "https://www.cnn.com/2021/10/24/us/gabby-petito-death-investigation-answers/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210915142521-02-gabby-petito-super-tease.jpg",
+            "publishedAt": "2021-10-24T11:05:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "",
+            "title": "China's 'sinicization' push leads to removal of mosque domes - NPR",
+            "description": "China is removing domes and minarets from thousands of mosques. Authorities are taking down overtly Islamic architecture as part of a \"sinicization\" push to make them seem more traditionally Chinese.",
+            "url": "https://www.npr.org/2021/10/24/1047054983/china-muslims-sinicization",
+            "urlToImage": "https://media.npr.org/assets/img/2021/10/21/dru_1-copy_wide-1a014b9d40f828620680e65e52059990aa3075fa.jpg?s=1400",
+            "publishedAt": "2021-10-24T11:02:20Z",
+            "content": "The Dongguan Great Mosque in Xining, China, photographed in 2018. Its main green dome and minaret domes have since been removed.\r\nZhang Peng/LightRocket via Getty Images\r\nXINING, China The Dongguan M… [+9104 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Laura Barrón-López",
+            "title": "Georgia Dems wait with fear and angst for help from D.C. - POLITICO",
+            "description": "Democrats in the Peach State are trying to beat back voting laws that Republicans passed. But they’re exhausted. And looking for help.",
+            "url": "https://www.politico.com/news/2021/10/24/georgia-democrats-fear-angst-516931",
+            "urlToImage": "https://static.politico.com/fd/2c/090e1c2342bbb93c1adadd24c3c9/ap21240786466866-1.jpg",
+            "publishedAt": "2021-10-24T11:01:02Z",
+            "content": "It is unfair to assume that we can out-organize voter suppression, said Reaves. Speaking as an organizer here ... sitting at a table full of community organizers, Georgia organizers are tired. \r\nActi… [+8981 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "",
+            "title": "Thousands of workers are getting fired for refusing the vaccine - NPR",
+            "description": "Employers are firing workers for refusing to comply with vaccine mandates. They represent only a tiny fraction of overall employees, not even 1% in some workplaces. But it can add up to thousands.",
+            "url": "https://www.npr.org/2021/10/24/1047947268/covid-vaccine-workers-quitting-getting-fired-mandates",
+            "urlToImage": "https://media.npr.org/assets/img/2021/10/21/ap21288730266737_wide-90a172fb35c9d74b9dd8fcfdfd1cfdbf92cdaaaa.jpg?s=1400",
+            "publishedAt": "2021-10-24T11:00:50Z",
+            "content": "A group of demonstrators hold signs as they protest against mandated vaccines outside the Michigan State Capitol on Aug. 6, 2021 in Lansing, Michigan.\r\nEmily Elconin/Getty Images\r\nFor 33 years, Karl … [+4849 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Declan Walsh, Eric Schmitt, Julian E. Barnes, Tyler Hicks",
+            "title": "A C.I.A. Fighter, a Somali Bomb Maker, and a Faltering Shadow War - The New York Times",
+            "description": "The hunt for an elusive Somali militant illustrates why Al Shabab, despite a decade of American covert action, are at their strongest in years.",
+            "url": "https://www.nytimes.com/2021/10/24/world/africa/al-shabab-somalia-us-cia.html",
+            "urlToImage": "https://static01.nyt.com/images/2021/10/13/world/00somalia-1-promo/00somalia-1-facebookJumbo.jpg",
+            "publishedAt": "2021-10-24T09:00:23Z",
+            "content": "American analysts estimate that Al Shabab command anywhere from 5,000 to 10,000 fighters. Under Mr. Mohamed, their bombs have grown more sophisticated and powerful.\r\nThe group uses its hold on Mogadi… [+1321 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Jamie McGee, Sarahbeth Maney",
+            "title": "Remove a Confederate Statue? A Tennessee City Did This Instead. - The New York Times",
+            "description": "Some residents want the monument removed. In the meantime, Franklin, Tenn., erected a statue of a U.S. Colored Troops soldier, broadening the way the community memorializes the Civil War.",
+            "url": "https://www.nytimes.com/2021/10/24/us/remove-a-confederate-statue-a-tennessee-city-did-this-instead.html",
+            "urlToImage": "https://static01.nyt.com/images/2021/10/24/us/24tennessee-statues-top-sub/merlin_196717074_f3ef32a1-2442-4b63-86dd-b7f1a5a749c8-facebookJumbo.jpg",
+            "publishedAt": "2021-10-24T09:00:21Z",
+            "content": "Part of what makes Franklin Franklin is our history, said Alderman Margaret Martin. He was right where he needed to be.\r\nMr. McLendon is among those who would like to see it moved to the Carnton ceme… [+1284 chars]"
+        }
+    ]
+}
